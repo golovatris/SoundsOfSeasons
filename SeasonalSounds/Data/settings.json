@@ -1,0 +1,50 @@
+{
+    "VanillaFrozenEditorIdSubstrings": [
+        "%Snow%",
+        "%Mountains%",
+        "WeatherWinterhold",
+        "WeatherWindhelm"
+    ],
+    "CityRecognitionSettings": {
+        "CityEditorIdSubstrings": [
+            "WeatherWinterhold",
+            "WeatherWindhelm",
+            "WeatherMarkarth",
+            "WeatherFalkreath",
+            "WeatherWhiterun",
+            "WeatherSolitude",
+            "WeatherRiften"
+        ],
+        "CityKeywordsEditorIdSubstrings": [
+            "LocTypeCity",
+            "LocTypeTown"
+        ],
+        "UseWorldspaceParenthoodAsCityMarker": false
+    },
+    "ConsiderableSoundsEditorIdSubstrings": [
+        "%Wind%",
+        "%Birds%",
+        "%Insects%",
+        "%Crickets%"
+    ],
+    "IgnoredSoundsEditorIdSubstrings": [
+        "%WindCoast%",
+        "%WindBedCoast%"
+    ],
+    "IgnoredRegionEditorIdSubstrings": [
+        "%SoulCairn%"
+    ],
+    "TemplateWildernessRegionEditorIdForPossiblyFrozenRegions": "WeatherSnow",
+    "TemplateCityRegionEditorIdForPossiblyFrozenRegions": "WeatherWindhelm",
+    "SeasonalLandscapesUnfrozenModeSettings": {
+        "EnableSeasonalLandscapesUnfrozenCompatibilityMode": true,
+        "TemplateWildernessRegionEditorIdForUnfrozenRegions": "WeatherPineForest",
+        "TemplateCityRegionEditorIdForUnfrozenRegions": "WeatherWhiterun"
+    },
+    "SeasonsOfSkyrimSettings": {
+        "UseSeasonsOfSkyrimMonthToSeasonMap": true,
+        "UseSeasonsOfSkyrimWorldspaceWhitelist": true
+    },
+    "RemoveCricketSoundInWindhelm": true,
+    "VerboseLogging": false
+}

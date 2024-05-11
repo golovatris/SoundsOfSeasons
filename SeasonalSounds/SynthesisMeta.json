@@ -1,0 +1,13 @@
+{
+  "Nickname": "Sounds of Seasons",
+  "Visibility": "Visible",
+  "OneLineDescription": "A Synthesis patcher that finally mutes those crickets during winter.",
+  "LongDescription": "This is a Synthesis patcher that will try its best to distinguish regional sounds and patch them accordingly, so they only play during appropriate seasons.\r\nGoes well with Seasonal Landscapes - Unfrozen. In fact, it was made with Unfrozen in mind.\r\nWeather-specific sounds will remain unchanged.",
+  "PreferredAutoVersioning": "Default",
+  "RequiredMods": [],
+  "TargetedReleases": [
+    "SkyrimSE",
+    "SkyrimVR",
+    "SkyrimSEGog"
+  ]
+}
